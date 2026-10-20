@@ -2,6 +2,8 @@
 
 Expenza, harcamaları kendi eğittiğimiz Türkçe metin sınıflandırma modeliyle otomatik kategorize eden, bütçe, tasarruf hedefi, harcama tahmini ve olağandışı harcama uyarısı sunan bir kişisel finans uygulaması. Mobil ve web istemcisi Flutter ile, backend FastAPI ile yazıldı. Bilgisayar mühendisliği bitirme projesidir.
 
+Tanıtım sitesi: https://ssenasahin.github.io/expenza/
+
 ## Mimari
 
 ```

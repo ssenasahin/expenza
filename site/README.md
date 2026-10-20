@@ -2,6 +2,8 @@
 
 Expenza kişisel finans uygulamasının tanıtım sayfası. Derleme adımı yok, düz HTML, CSS ve JavaScript.
 
+Yayındaki adres: https://ssenasahin.github.io/expenza/
+
 ```
 index.html          sayfa
 assets/styles.css   renkler, animasyonlar, duyarlı düzen
